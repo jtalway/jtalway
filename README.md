@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason :)
-- 👀 I’m interested in python, web development, hacking.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning coding, hacking, fitness, nutrition, wellness.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: jtalway@gmail.com
